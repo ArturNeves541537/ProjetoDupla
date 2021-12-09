@@ -1,4 +1,4 @@
 # Projeto em dupla de React Native Residencia Serratec
 
-Membros: Artur Neves
+Membros: Artur Neves<br>
          Raphaela Martins
